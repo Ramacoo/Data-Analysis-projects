@@ -1,0 +1,1001 @@
+customer_id,gender,city,employment_status,repayment_status,income_ghs,loan_amount_ghs,age
+1,Female,Koforidua,Freelancer,Default,25800,95194,41
+2,Male,Kumasi,Employed,Partial,41477,26929,42
+3,Female,Ho,Unemployed,Partial,28931,66697,49
+4,Female,Mankesim,Unemployed,Paid,15459,315,33
+5,Male,Techiman,Small Business Owner,Default,1224,53751,26
+6,Female,Tamale,Big Business Owner,Default,17432,97233,23
+7,Female,Mankesim,Employed,Paid,28510,27270,21
+8,Male,Koforidua,Unemployed,Partial,44547,84009,45
+9,Male,Sunyani,Freelancer,Partial,21810,27224,34
+10,Female,Koforidua,Small Business Owner,Partial,11851,28257,55
+11,Male,Bolgatanga,Employed,Paid,35330,98626,30
+12,Female,Sunyani,Small Business Owner,Default,13929,10360,55
+13,Female,Ho,Employed,Paid,6327,51617,43
+14,Female,Wa,Unemployed,Partial,9920,1167,46
+15,Female,Mankesim,Small Business Owner,Partial,49651,58952,31
+16,Male,Mankesim,Employed,Default,33695,98943,22
+17,Male,Tarkwa,Big Business Owner,Default,16907,8234,21
+18,Male,Obuasi,Employed,Default,13919,74038,47
+19,Female,Ho,Big Business Owner,Default,42348,8778,33
+20,Male,Obuasi,Unemployed,Default,42467,22450,45
+21,Male,Aburi,Big Business Owner,Paid,37484,52786,40
+22,Female,Obuasi,Big Business Owner,Paid,2751,72445,21
+23,Male,Techiman,Unemployed,Default,24277,325,60
+24,Male,Obuasi,Unemployed,Paid,25233,38211,25
+25,Female,Ho,Unemployed,Partial,8366,57183,47
+26,Male,Techiman,Freelancer,Paid,44926,45959,24
+27,Female,Takoradi,Big Business Owner,Partial,17827,18369,44
+28,Female,Tema,Freelancer,Paid,3400,49810,35
+29,Male,Techiman,Freelancer,Default,11006,43133,29
+30,Female,Tarkwa,Employed,Default,6905,95285,58
+31,Female,Ho,Employed,Paid,40642,28821,25
+32,Female,Hohoe,Freelancer,Partial,8814,39941,27
+33,Male,Cape Coast,Small Business Owner,Paid,32422,27699,37
+34,Female,Sunyani,Unemployed,Default,46940,47092,34
+35,Female,Tamale,Small Business Owner,Default,17353,17743,29
+36,Female,Koforidua,Small Business Owner,Paid,31970,57630,57
+37,Male,Aburi,Big Business Owner,Partial,30990,5373,56
+38,Female,Tamale,Small Business Owner,Default,41981,6814,19
+39,Female,Sunyani,Big Business Owner,Paid,12185,59175,53
+40,Female,Nkawkaw,Big Business Owner,Partial,25688,2323,33
+41,Female,Cape Coast,Freelancer,Default,22534,93121,36
+42,Female,Ho,Small Business Owner,Default,23805,33420,23
+43,Female,Obuasi,Employed,Partial,19243,66035,49
+44,Male,Mankesim,Freelancer,Paid,14389,7780,45
+45,Female,Nkawkaw,Freelancer,Partial,4925,76696,29
+46,Male,Tarkwa,Employed,Partial,12319,58024,30
+47,Male,Koforidua,Big Business Owner,Default,19972,61581,59
+48,Female,Tarkwa,Big Business Owner,Paid,10942,78714,20
+49,Female,Accra,Small Business Owner,Paid,7599,70604,25
+50,Female,Techiman,Unemployed,Default,4238,88105,45
+51,Female,Koforidua,Freelancer,Partial,25264,73988,18
+52,Female,Techiman,Big Business Owner,Paid,18542,50580,26
+53,Male,Obuasi,Unemployed,Paid,49704,61279,29
+54,Male,Nkawkaw,Employed,Partial,11021,59995,52
+55,Female,Hohoe,Small Business Owner,Paid,4805,47670,52
+56,Male,Wa,Employed,Paid,40337,57644,59
+57,Male,Takoradi,Big Business Owner,Partial,16006,57776,37
+58,Female,Tema,Small Business Owner,Paid,18282,72597,30
+59,Male,Tema,Big Business Owner,Paid,34677,33394,47
+60,Male,Aburi,Employed,Default,35634,50985,55
+61,Male,Wa,Small Business Owner,Partial,23492,86229,37
+62,Female,Aburi,Employed,Default,22449,14104,54
+63,Female,Sunyani,Small Business Owner,Partial,18073,10650,33
+64,Female,Bolgatanga,Freelancer,Default,46489,33184,20
+65,Male,Tema,Unemployed,Default,16075,78053,59
+66,Female,Techiman,Freelancer,Partial,39417,97500,27
+67,Male,Bolgatanga,Employed,Default,43874,23218,25
+68,Male,Cape Coast,Big Business Owner,Default,36687,41908,52
+69,Female,Takoradi,Small Business Owner,Paid,42114,29734,51
+70,Male,Wa,Big Business Owner,Default,26238,65267,41
+71,Male,Koforidua,Freelancer,Default,13741,41214,35
+72,Female,Tema,Freelancer,Paid,5861,69414,26
+73,Female,Sunyani,Small Business Owner,Paid,45376,36722,55
+74,Male,Takoradi,Employed,Partial,45990,33791,43
+75,Female,Aburi,Small Business Owner,Paid,30349,55221,18
+76,Female,Hohoe,Freelancer,Paid,26650,54531,50
+77,Male,Mankesim,Unemployed,Default,27759,56713,29
+78,Male,Mankesim,Small Business Owner,Default,43750,38573,28
+79,Male,Bolgatanga,Big Business Owner,Paid,6194,85302,25
+80,Female,Aburi,Big Business Owner,Paid,33586,23237,43
+81,Female,Tamale,Big Business Owner,Default,4171,9458,22
+82,Male,Sunyani,Small Business Owner,Paid,18626,94529,56
+83,Female,Wa,Unemployed,Partial,17695,62802,52
+84,Female,Aburi,Small Business Owner,Default,43797,19681,24
+85,Male,Mankesim,Employed,Default,15435,12795,57
+86,Male,Takoradi,Small Business Owner,Partial,39738,71711,33
+87,Male,Obuasi,Small Business Owner,Default,29687,37121,47
+88,Female,Mankesim,Unemployed,Default,41394,59561,26
+89,Male,Aburi,Big Business Owner,Partial,17629,99313,52
+90,Female,Takoradi,Employed,Default,5463,38695,32
+91,Female,Tarkwa,Small Business Owner,Paid,22008,67337,35
+92,Male,Aburi,Freelancer,Default,4788,27682,47
+93,Female,Takoradi,Unemployed,Default,20582,44602,35
+94,Female,Kumasi,Employed,Partial,39451,46143,29
+95,Female,Accra,Unemployed,Partial,13650,66953,42
+96,Female,Wa,Big Business Owner,Partial,20599,83354,57
+97,Male,Accra,Small Business Owner,Paid,15833,2291,53
+98,Female,Techiman,Small Business Owner,Default,33643,37397,53
+99,Male,Takoradi,Unemployed,Default,29309,37785,46
+100,Female,Kumasi,Unemployed,Partial,1738,52990,42
+101,Male,Takoradi,Employed,Partial,18911,52545,54
+102,Female,Hohoe,Big Business Owner,Partial,13969,75685,18
+103,Female,Tema,Small Business Owner,Default,9822,3423,29
+104,Male,Obuasi,Unemployed,Paid,9047,52230,39
+105,Male,Kumasi,Freelancer,Default,26097,38897,52
+106,Male,Bolgatanga,Unemployed,Paid,27951,31291,29
+107,Female,Wa,Freelancer,Default,32429,99150,56
+108,Female,Takoradi,Big Business Owner,Default,46323,19080,44
+109,Female,Ho,Employed,Default,13756,87940,50
+110,Male,Ho,Big Business Owner,Default,7188,98913,27
+111,Male,Ho,Freelancer,Default,6146,54967,55
+112,Female,Wa,Unemployed,Paid,18591,60159,29
+113,Female,Cape Coast,Unemployed,Default,9645,60158,51
+114,Female,Nkawkaw,Freelancer,Paid,35872,78906,49
+115,Male,Sunyani,Freelancer,Paid,18735,64942,29
+116,Female,Wa,Freelancer,Paid,10767,24721,53
+117,Female,Techiman,Big Business Owner,Default,8597,82893,58
+118,Female,Wa,Freelancer,Default,20352,23772,41
+119,Male,Koforidua,Big Business Owner,Paid,43552,60043,19
+120,Female,Obuasi,Employed,Partial,47872,43390,24
+121,Male,Tema,Unemployed,Partial,5437,60060,49
+122,Male,Sunyani,Freelancer,Default,1080,63479,46
+123,Male,Bolgatanga,Employed,Default,15330,80337,44
+124,Male,Bolgatanga,Small Business Owner,Paid,1401,2037,18
+125,Female,Tema,Unemployed,Partial,25732,43088,31
+126,Male,Obuasi,Small Business Owner,Partial,45599,14577,56
+127,Female,Sunyani,Big Business Owner,Partial,2015,75259,56
+128,Male,Wa,Big Business Owner,Partial,4249,36142,53
+129,Male,Cape Coast,Freelancer,Default,26473,62867,43
+130,Male,Ho,Big Business Owner,Partial,9440,92227,40
+131,Male,Techiman,Big Business Owner,Default,11733,52025,36
+132,Female,Nkawkaw,Unemployed,Partial,39509,74258,23
+133,Female,Cape Coast,Freelancer,Default,10778,75517,43
+134,Male,Wa,Employed,Paid,23521,76827,36
+135,Male,Tamale,Unemployed,Paid,22639,87038,24
+136,Female,Aburi,Big Business Owner,Default,20263,50357,40
+137,Male,Obuasi,Small Business Owner,Partial,48294,75245,46
+138,Female,Nkawkaw,Employed,Paid,27232,99588,31
+139,Male,Techiman,Freelancer,Paid,7400,13640,34
+140,Male,Mankesim,Big Business Owner,Partial,2654,33873,46
+141,Female,Cape Coast,Big Business Owner,Default,28199,80878,35
+142,Female,Cape Coast,Big Business Owner,Partial,17470,51150,23
+143,Male,Nkawkaw,Unemployed,Default,36326,55472,20
+144,Female,Nkawkaw,Employed,Default,8987,52737,60
+145,Female,Cape Coast,Freelancer,Paid,19475,34783,30
+146,Female,Aburi,Unemployed,Partial,43309,12434,30
+147,Female,Obuasi,Employed,Partial,2390,96521,19
+148,Female,Bolgatanga,Big Business Owner,Paid,41726,96942,38
+149,Male,Tarkwa,Unemployed,Default,32674,99753,25
+150,Male,Techiman,Freelancer,Default,18879,26065,20
+151,Female,Koforidua,Big Business Owner,Paid,6083,32376,27
+152,Male,Aburi,Employed,Paid,36072,83880,52
+153,Female,Techiman,Employed,Partial,47493,29433,20
+154,Male,Tema,Small Business Owner,Paid,2697,31392,20
+155,Male,Cape Coast,Big Business Owner,Default,14947,37323,40
+156,Male,Cape Coast,Freelancer,Paid,46363,28391,44
+157,Female,Hohoe,Freelancer,Default,21029,45561,21
+158,Male,Takoradi,Freelancer,Partial,24794,1043,39
+159,Male,Obuasi,Unemployed,Paid,23070,16738,48
+160,Female,Kumasi,Unemployed,Default,12497,41199,22
+161,Female,Mankesim,Unemployed,Paid,47237,347,58
+162,Male,Ho,Freelancer,Default,3277,61284,23
+163,Female,Kumasi,Small Business Owner,Paid,3761,24718,34
+164,Male,Bolgatanga,Big Business Owner,Paid,47258,11107,59
+165,Male,Cape Coast,Big Business Owner,Default,16515,5523,58
+166,Male,Obuasi,Small Business Owner,Default,19526,20623,46
+167,Male,Takoradi,Small Business Owner,Partial,20186,24367,38
+168,Male,Cape Coast,Unemployed,Default,25245,1437,34
+169,Male,Accra,Employed,Default,4202,97406,23
+170,Male,Sunyani,Freelancer,Paid,32098,72233,32
+171,Male,Hohoe,Unemployed,Paid,36933,77041,31
+172,Female,Ho,Small Business Owner,Partial,24865,42895,35
+173,Female,Nkawkaw,Unemployed,Partial,22174,98553,33
+174,Female,Ho,Small Business Owner,Partial,39739,20400,20
+175,Female,Tamale,Unemployed,Paid,35358,72899,44
+176,Male,Sunyani,Employed,Partial,17798,46328,54
+177,Male,Tarkwa,Employed,Paid,6607,96887,19
+178,Female,Hohoe,Unemployed,Paid,32757,50670,25
+179,Male,Wa,Employed,Paid,22367,15674,19
+180,Male,Cape Coast,Big Business Owner,Partial,24842,13543,29
+181,Female,Tamale,Freelancer,Paid,30972,54532,19
+182,Male,Nkawkaw,Employed,Default,6861,10780,39
+183,Female,Tamale,Small Business Owner,Paid,28071,47241,19
+184,Female,Aburi,Unemployed,Default,17892,73246,36
+185,Female,Wa,Big Business Owner,Paid,8669,80446,19
+186,Male,Ho,Big Business Owner,Partial,16929,87045,40
+187,Male,Accra,Freelancer,Paid,27321,26454,59
+188,Female,Tarkwa,Big Business Owner,Paid,4568,13375,53
+189,Female,Obuasi,Unemployed,Paid,15850,11201,33
+190,Female,Ho,Freelancer,Partial,15652,32259,41
+191,Female,Aburi,Unemployed,Partial,31539,36923,24
+192,Male,Ho,Employed,Partial,41753,67874,52
+193,Female,Accra,Employed,Default,3359,85444,46
+194,Male,Koforidua,Employed,Default,40792,75708,34
+195,Female,Cape Coast,Unemployed,Default,49685,11460,39
+196,Female,Cape Coast,Employed,Partial,28007,72163,24
+197,Male,Kumasi,Small Business Owner,Default,16754,13019,42
+198,Male,Sunyani,Big Business Owner,Default,5251,88407,57
+199,Female,Sunyani,Freelancer,Paid,49165,59900,20
+200,Female,Nkawkaw,Big Business Owner,Partial,11297,36431,30
+201,Male,Techiman,Freelancer,Default,1613,1799,53
+202,Female,Techiman,Employed,Default,352,4239,37
+203,Female,Accra,Small Business Owner,Default,39553,61135,18
+204,Female,Cape Coast,Employed,Partial,4980,61413,29
+205,Female,Tema,Freelancer,Partial,31666,2559,25
+206,Female,Sunyani,Freelancer,Partial,898,33948,37
+207,Female,Hohoe,Employed,Default,19563,63431,43
+208,Female,Aburi,Unemployed,Partial,34834,21523,34
+209,Female,Sunyani,Unemployed,Partial,39677,88408,46
+210,Male,Bolgatanga,Freelancer,Partial,10469,86477,34
+211,Female,Aburi,Employed,Partial,30192,84743,53
+212,Female,Tarkwa,Employed,Paid,36677,73862,45
+213,Male,Wa,Small Business Owner,Default,25870,71307,20
+214,Female,Nkawkaw,Unemployed,Partial,38838,38234,60
+215,Female,Cape Coast,Big Business Owner,Paid,8918,425,39
+216,Female,Cape Coast,Freelancer,Partial,32542,99547,39
+217,Male,Koforidua,Employed,Partial,18408,76517,21
+218,Male,Aburi,Employed,Default,43147,95627,37
+219,Male,Obuasi,Employed,Default,30245,62187,21
+220,Male,Techiman,Small Business Owner,Default,29434,38436,52
+221,Male,Tema,Unemployed,Default,41836,53871,18
+222,Female,Sunyani,Unemployed,Default,13669,58715,24
+223,Female,Tarkwa,Small Business Owner,Paid,5336,34670,41
+224,Male,Tema,Unemployed,Default,25810,92317,51
+225,Male,Koforidua,Small Business Owner,Paid,27401,74280,60
+226,Male,Koforidua,Freelancer,Paid,44676,20710,21
+227,Female,Obuasi,Employed,Paid,47046,13545,24
+228,Male,Obuasi,Freelancer,Partial,25466,34913,44
+229,Female,Tarkwa,Freelancer,Default,12010,99084,31
+230,Female,Koforidua,Small Business Owner,Paid,5675,99616,34
+231,Male,Sunyani,Employed,Partial,39298,57453,19
+232,Female,Kumasi,Unemployed,Partial,12546,58760,58
+233,Female,Cape Coast,Unemployed,Paid,1828,89393,33
+234,Male,Bolgatanga,Small Business Owner,Partial,22830,42382,59
+235,Male,Koforidua,Unemployed,Paid,40678,66256,31
+236,Female,Koforidua,Small Business Owner,Partial,44174,91980,29
+237,Female,Aburi,Employed,Partial,28772,10532,37
+238,Female,Accra,Freelancer,Partial,2883,87174,39
+239,Female,Ho,Freelancer,Default,1301,41072,56
+240,Male,Hohoe,Unemployed,Default,30755,15016,42
+241,Female,Hohoe,Employed,Paid,25120,98936,58
+242,Female,Accra,Big Business Owner,Default,46322,83831,49
+243,Female,Wa,Freelancer,Default,15822,54430,38
+244,Female,Accra,Freelancer,Partial,11974,58923,59
+245,Female,Koforidua,Unemployed,Default,16315,15357,40
+246,Female,Nkawkaw,Employed,Paid,29043,87423,19
+247,Female,Tarkwa,Employed,Partial,42783,86944,50
+248,Female,Takoradi,Small Business Owner,Default,46805,29728,40
+249,Male,Tema,Unemployed,Default,38467,77750,29
+250,Female,Hohoe,Employed,Partial,42681,6923,23
+251,Male,Koforidua,Small Business Owner,Paid,2058,91088,31
+252,Female,Obuasi,Employed,Paid,20871,9415,38
+253,Female,Techiman,Small Business Owner,Default,8405,19673,21
+254,Female,Wa,Unemployed,Default,11781,37001,21
+255,Male,Obuasi,Freelancer,Partial,44912,25964,43
+256,Male,Obuasi,Employed,Paid,27396,3421,47
+257,Male,Sunyani,Unemployed,Default,2410,61406,42
+258,Female,Bolgatanga,Freelancer,Default,11657,13277,25
+259,Male,Koforidua,Small Business Owner,Partial,47347,43528,22
+260,Male,Koforidua,Employed,Paid,41812,79557,49
+261,Female,Tamale,Freelancer,Default,23369,45066,49
+262,Female,Aburi,Big Business Owner,Default,23325,11993,54
+263,Male,Cape Coast,Unemployed,Paid,10392,49639,59
+264,Male,Tamale,Freelancer,Default,2448,41099,53
+265,Male,Nkawkaw,Freelancer,Paid,48654,38046,45
+266,Female,Wa,Freelancer,Paid,8572,40089,58
+267,Male,Sunyani,Unemployed,Partial,32703,21887,28
+268,Male,Koforidua,Freelancer,Paid,6524,83010,46
+269,Male,Nkawkaw,Big Business Owner,Partial,18344,19201,28
+270,Male,Aburi,Freelancer,Default,28073,90567,52
+271,Female,Tarkwa,Big Business Owner,Partial,39983,99811,39
+272,Male,Wa,Unemployed,Default,28683,17435,26
+273,Male,Tamale,Big Business Owner,Paid,45629,3134,46
+274,Female,Aburi,Unemployed,Paid,47087,57960,40
+275,Male,Koforidua,Big Business Owner,Paid,1116,53174,60
+276,Male,Cape Coast,Employed,Partial,32443,56259,25
+277,Female,Wa,Big Business Owner,Paid,19500,4140,42
+278,Female,Mankesim,Employed,Default,7451,28000,54
+279,Female,Nkawkaw,Small Business Owner,Paid,10384,56474,22
+280,Male,Mankesim,Small Business Owner,Partial,11220,42161,52
+281,Male,Aburi,Freelancer,Paid,2019,55374,58
+282,Male,Hohoe,Big Business Owner,Paid,26171,82315,50
+283,Male,Sunyani,Unemployed,Partial,21896,4775,51
+284,Female,Nkawkaw,Freelancer,Default,18452,43961,46
+285,Male,Cape Coast,Small Business Owner,Default,633,34397,27
+286,Female,Mankesim,Freelancer,Partial,23343,48124,41
+287,Female,Cape Coast,Employed,Default,24460,91042,26
+288,Male,Obuasi,Small Business Owner,Default,10187,53379,52
+289,Female,Mankesim,Big Business Owner,Default,5383,82771,48
+290,Male,Aburi,Big Business Owner,Paid,28863,17470,27
+291,Female,Tamale,Big Business Owner,Partial,48903,71457,35
+292,Female,Aburi,Freelancer,Paid,21194,18617,27
+293,Male,Takoradi,Freelancer,Paid,9272,28235,50
+294,Female,Sunyani,Freelancer,Default,31311,64714,20
+295,Male,Koforidua,Big Business Owner,Default,21480,4084,39
+296,Male,Takoradi,Small Business Owner,Partial,48231,66966,36
+297,Female,Takoradi,Employed,Partial,18012,43984,56
+298,Male,Accra,Unemployed,Partial,10361,834,34
+299,Female,Wa,Small Business Owner,Paid,24604,63484,57
+300,Female,Obuasi,Freelancer,Default,41531,84751,56
+301,Male,Koforidua,Small Business Owner,Default,48364,29821,48
+302,Female,Tarkwa,Freelancer,Paid,39781,64513,58
+303,Male,Techiman,Big Business Owner,Default,18576,74987,29
+304,Female,Obuasi,Employed,Default,1904,14889,56
+305,Female,Koforidua,Unemployed,Partial,4095,99584,58
+306,Male,Mankesim,Big Business Owner,Partial,506,63517,37
+307,Female,Cape Coast,Big Business Owner,Paid,15239,49654,24
+308,Male,Obuasi,Employed,Default,6743,57760,39
+309,Male,Cape Coast,Unemployed,Partial,18393,67555,39
+310,Female,Mankesim,Freelancer,Default,27687,96694,34
+311,Male,Tema,Unemployed,Partial,40054,24547,34
+312,Female,Accra,Employed,Partial,11311,28444,45
+313,Female,Tamale,Freelancer,Partial,19788,62661,46
+314,Female,Koforidua,Unemployed,Partial,11744,90650,47
+315,Female,Bolgatanga,Small Business Owner,Partial,17937,70623,28
+316,Female,Takoradi,Big Business Owner,Default,32249,4873,24
+317,Male,Kumasi,Freelancer,Partial,6434,77518,56
+318,Female,Kumasi,Freelancer,Default,34619,39560,41
+319,Female,Tamale,Unemployed,Partial,25115,74899,44
+320,Female,Bolgatanga,Employed,Default,48496,3476,22
+321,Female,Sunyani,Big Business Owner,Partial,38934,56570,57
+322,Male,Bolgatanga,Big Business Owner,Partial,34229,80288,27
+323,Male,Hohoe,Small Business Owner,Default,20463,61545,30
+324,Female,Cape Coast,Big Business Owner,Partial,33804,37531,27
+325,Female,Mankesim,Small Business Owner,Partial,47209,1503,42
+326,Male,Aburi,Small Business Owner,Default,36899,8635,56
+327,Male,Cape Coast,Big Business Owner,Default,16559,18616,21
+328,Female,Tarkwa,Unemployed,Paid,13662,71477,38
+329,Male,Takoradi,Unemployed,Partial,30719,14295,24
+330,Male,Ho,Freelancer,Default,21029,23179,41
+331,Male,Mankesim,Unemployed,Default,23369,79475,31
+332,Male,Koforidua,Freelancer,Paid,37585,17163,43
+333,Female,Mankesim,Freelancer,Partial,14849,16413,19
+334,Male,Kumasi,Small Business Owner,Partial,32108,24785,47
+335,Male,Takoradi,Employed,Default,29614,27302,28
+336,Female,Accra,Small Business Owner,Default,12641,15090,59
+337,Female,Kumasi,Small Business Owner,Default,4071,98777,31
+338,Female,Kumasi,Big Business Owner,Paid,38642,86598,19
+339,Male,Tema,Big Business Owner,Paid,27050,62185,57
+340,Female,Nkawkaw,Employed,Paid,45002,33544,57
+341,Male,Aburi,Freelancer,Paid,2210,33505,44
+342,Female,Cape Coast,Freelancer,Default,4112,46787,40
+343,Male,Cape Coast,Freelancer,Partial,15896,49422,30
+344,Male,Ho,Big Business Owner,Partial,4970,50593,40
+345,Male,Wa,Unemployed,Paid,32638,34744,20
+346,Male,Mankesim,Freelancer,Paid,4645,30613,36
+347,Female,Hohoe,Freelancer,Default,24705,31791,20
+348,Female,Wa,Freelancer,Paid,35749,63545,59
+349,Male,Ho,Employed,Default,1128,60027,57
+350,Male,Tamale,Freelancer,Partial,37724,50919,51
+351,Female,Aburi,Employed,Paid,42420,57439,27
+352,Male,Nkawkaw,Employed,Partial,45211,2865,55
+353,Male,Cape Coast,Big Business Owner,Partial,5582,23407,34
+354,Female,Tarkwa,Unemployed,Default,47353,68124,21
+355,Male,Wa,Unemployed,Partial,48404,11831,36
+356,Male,Cape Coast,Employed,Paid,29569,97885,44
+357,Female,Accra,Small Business Owner,Partial,26718,48538,39
+358,Female,Cape Coast,Employed,Paid,15797,4385,58
+359,Male,Tarkwa,Unemployed,Default,29374,60084,23
+360,Female,Obuasi,Small Business Owner,Default,20434,92200,26
+361,Female,Accra,Freelancer,Partial,36566,49223,58
+362,Male,Koforidua,Employed,Default,29994,36662,44
+363,Male,Techiman,Unemployed,Partial,43913,15171,46
+364,Female,Accra,Employed,Default,46168,73373,36
+365,Female,Tarkwa,Unemployed,Paid,4129,51717,43
+366,Female,Koforidua,Big Business Owner,Default,27072,6712,21
+367,Male,Kumasi,Big Business Owner,Partial,41546,41364,52
+368,Female,Hohoe,Small Business Owner,Partial,48492,10497,53
+369,Female,Techiman,Small Business Owner,Default,22081,34541,44
+370,Male,Tarkwa,Freelancer,Default,16648,90485,45
+371,Male,Nkawkaw,Big Business Owner,Paid,10922,65049,34
+372,Male,Kumasi,Small Business Owner,Paid,42674,4232,23
+373,Male,Tamale,Freelancer,Partial,16443,44808,22
+374,Male,Cape Coast,Unemployed,Paid,32565,89624,52
+375,Female,Ho,Big Business Owner,Default,19428,73496,19
+376,Female,Hohoe,Employed,Default,23109,14687,20
+377,Male,Takoradi,Small Business Owner,Default,48680,94462,55
+378,Male,Kumasi,Big Business Owner,Partial,38222,61852,49
+379,Male,Obuasi,Employed,Paid,19570,46287,29
+380,Male,Aburi,Big Business Owner,Default,37689,22666,28
+381,Male,Nkawkaw,Freelancer,Partial,5890,44070,50
+382,Male,Kumasi,Unemployed,Paid,6112,17446,36
+383,Female,Kumasi,Unemployed,Partial,33923,5984,39
+384,Female,Hohoe,Employed,Partial,39562,84864,18
+385,Female,Mankesim,Big Business Owner,Partial,1024,77863,59
+386,Male,Koforidua,Unemployed,Partial,36062,23640,58
+387,Female,Tema,Freelancer,Paid,13580,30144,29
+388,Female,Takoradi,Unemployed,Paid,44946,74213,33
+389,Male,Nkawkaw,Freelancer,Paid,6074,91157,54
+390,Male,Bolgatanga,Small Business Owner,Paid,33007,44532,54
+391,Male,Sunyani,Small Business Owner,Partial,21773,73806,53
+392,Male,Nkawkaw,Small Business Owner,Partial,307,17334,60
+393,Female,Tamale,Small Business Owner,Paid,14043,97151,43
+394,Male,Hohoe,Employed,Paid,40753,25707,20
+395,Female,Tema,Freelancer,Paid,16273,88525,60
+396,Male,Accra,Small Business Owner,Default,37756,83906,24
+397,Male,Ho,Freelancer,Partial,39378,15416,38
+398,Female,Koforidua,Big Business Owner,Paid,8511,61748,22
+399,Female,Wa,Employed,Default,409,19153,23
+400,Female,Obuasi,Big Business Owner,Default,34237,2362,51
+401,Female,Cape Coast,Freelancer,Partial,16394,56778,32
+402,Male,Obuasi,Employed,Paid,10530,10244,22
+403,Female,Tema,Freelancer,Partial,4628,88922,60
+404,Female,Koforidua,Unemployed,Default,6698,17648,43
+405,Female,Kumasi,Small Business Owner,Partial,19714,62221,34
+406,Female,Hohoe,Big Business Owner,Paid,13181,2939,44
+407,Male,Takoradi,Small Business Owner,Paid,543,41589,36
+408,Male,Tamale,Unemployed,Paid,43416,6292,22
+409,Female,Takoradi,Freelancer,Partial,19413,39008,36
+410,Female,Obuasi,Freelancer,Partial,29022,65277,42
+411,Female,Techiman,Big Business Owner,Partial,42170,10714,35
+412,Male,Techiman,Small Business Owner,Partial,12837,49879,44
+413,Male,Bolgatanga,Big Business Owner,Default,8968,1863,20
+414,Male,Tema,Freelancer,Paid,38575,38374,27
+415,Female,Takoradi,Unemployed,Default,17239,79616,41
+416,Female,Tarkwa,Small Business Owner,Partial,17128,37108,43
+417,Male,Cape Coast,Big Business Owner,Paid,37297,55384,37
+418,Female,Nkawkaw,Unemployed,Partial,48456,88869,39
+419,Male,Wa,Employed,Partial,37135,64446,31
+420,Male,Aburi,Employed,Paid,49730,79418,52
+421,Female,Takoradi,Unemployed,Partial,4262,77467,30
+422,Female,Kumasi,Unemployed,Paid,23539,328,35
+423,Female,Tema,Employed,Paid,44922,73877,44
+424,Male,Tamale,Employed,Default,34847,32539,39
+425,Male,Accra,Big Business Owner,Partial,7014,60728,42
+426,Male,Sunyani,Freelancer,Partial,39803,60327,19
+427,Male,Accra,Freelancer,Partial,21089,74377,57
+428,Male,Ho,Freelancer,Partial,14817,4756,27
+429,Male,Takoradi,Small Business Owner,Partial,27929,83168,44
+430,Female,Wa,Employed,Default,25828,56130,52
+431,Male,Techiman,Big Business Owner,Paid,22392,51602,39
+432,Female,Hohoe,Employed,Paid,37712,35071,32
+433,Female,Nkawkaw,Employed,Default,17927,24634,32
+434,Female,Bolgatanga,Unemployed,Paid,8206,75371,20
+435,Male,Sunyani,Big Business Owner,Paid,26804,74406,32
+436,Male,Accra,Freelancer,Default,31440,86843,31
+437,Female,Cape Coast,Unemployed,Default,23465,46747,30
+438,Male,Ho,Big Business Owner,Paid,34559,81933,32
+439,Male,Accra,Unemployed,Default,32504,33460,58
+440,Male,Nkawkaw,Small Business Owner,Paid,30715,99645,29
+441,Male,Ho,Small Business Owner,Paid,18740,24424,59
+442,Female,Tema,Employed,Paid,1330,58113,18
+443,Female,Hohoe,Unemployed,Default,4164,50509,43
+444,Female,Cape Coast,Employed,Partial,47165,23218,54
+445,Female,Hohoe,Employed,Default,38452,85736,26
+446,Male,Tema,Small Business Owner,Default,29147,68396,33
+447,Female,Cape Coast,Small Business Owner,Partial,3519,22826,58
+448,Male,Mankesim,Unemployed,Partial,5977,56944,26
+449,Female,Hohoe,Small Business Owner,Paid,14414,42602,27
+450,Female,Koforidua,Freelancer,Partial,41542,17985,25
+451,Male,Tamale,Freelancer,Default,29551,62708,38
+452,Male,Bolgatanga,Freelancer,Default,10192,15481,47
+453,Female,Techiman,Employed,Partial,18801,92179,50
+454,Male,Takoradi,Big Business Owner,Default,30214,85937,36
+455,Male,Accra,Big Business Owner,Default,19405,65812,27
+456,Male,Mankesim,Freelancer,Paid,2417,88269,20
+457,Male,Tema,Employed,Partial,12815,7363,44
+458,Female,Hohoe,Employed,Partial,48272,90633,55
+459,Female,Kumasi,Freelancer,Paid,21584,89363,21
+460,Female,Nkawkaw,Unemployed,Default,22904,76828,34
+461,Female,Takoradi,Employed,Partial,32866,87545,53
+462,Female,Accra,Small Business Owner,Default,3771,14734,29
+463,Male,Nkawkaw,Employed,Default,27869,94395,46
+464,Female,Kumasi,Big Business Owner,Paid,26834,38086,56
+465,Female,Techiman,Freelancer,Partial,26833,50803,53
+466,Male,Bolgatanga,Freelancer,Default,28444,44827,56
+467,Female,Kumasi,Employed,Paid,4552,17858,40
+468,Male,Kumasi,Employed,Paid,18416,46548,40
+469,Male,Tema,Unemployed,Default,49025,715,48
+470,Female,Cape Coast,Big Business Owner,Paid,46849,95985,58
+471,Male,Ho,Freelancer,Default,13934,31159,25
+472,Male,Tarkwa,Big Business Owner,Paid,12984,43393,21
+473,Female,Takoradi,Freelancer,Paid,4486,61867,36
+474,Female,Sunyani,Employed,Default,12267,49796,30
+475,Male,Takoradi,Freelancer,Default,36328,78236,58
+476,Male,Bolgatanga,Big Business Owner,Default,38136,7662,48
+477,Male,Tarkwa,Freelancer,Default,14620,67027,19
+478,Female,Ho,Unemployed,Paid,23335,54099,38
+479,Male,Tamale,Small Business Owner,Default,23482,60296,43
+480,Female,Koforidua,Employed,Partial,45014,26678,36
+481,Female,Hohoe,Big Business Owner,Default,29779,80193,26
+482,Female,Nkawkaw,Small Business Owner,Paid,12558,12998,41
+483,Male,Koforidua,Employed,Paid,46779,42890,59
+484,Male,Bolgatanga,Unemployed,Partial,39273,36257,51
+485,Male,Koforidua,Big Business Owner,Paid,32550,5347,21
+486,Female,Tarkwa,Unemployed,Partial,11469,8608,20
+487,Male,Ho,Employed,Default,1899,94137,52
+488,Female,Cape Coast,Freelancer,Partial,6410,16248,45
+489,Male,Accra,Employed,Partial,17676,99586,45
+490,Male,Techiman,Freelancer,Partial,24549,11921,30
+491,Male,Techiman,Employed,Paid,35445,2956,26
+492,Male,Mankesim,Big Business Owner,Paid,29027,33410,21
+493,Male,Mankesim,Small Business Owner,Paid,34254,63794,24
+494,Female,Bolgatanga,Employed,Default,21247,43527,58
+495,Male,Koforidua,Big Business Owner,Partial,16345,32786,35
+496,Female,Obuasi,Big Business Owner,Paid,36917,33194,51
+497,Female,Cape Coast,Freelancer,Paid,19482,87207,59
+498,Female,Tamale,Freelancer,Default,28678,95689,49
+499,Female,Mankesim,Unemployed,Paid,1755,22783,22
+500,Male,Hohoe,Employed,Default,49323,38706,40
+501,Male,Takoradi,Unemployed,Default,5360,68535,52
+502,Male,Techiman,Employed,Partial,13444,41431,57
+503,Male,Sunyani,Big Business Owner,Paid,44110,52270,38
+504,Female,Tarkwa,Freelancer,Paid,45064,44712,52
+505,Female,Hohoe,Big Business Owner,Paid,42433,2611,20
+506,Male,Cape Coast,Employed,Default,19061,64792,27
+507,Female,Accra,Unemployed,Partial,41007,26623,35
+508,Female,Hohoe,Big Business Owner,Default,27958,20689,30
+509,Male,Tema,Small Business Owner,Paid,47152,79633,32
+510,Male,Accra,Big Business Owner,Partial,7482,26762,29
+511,Male,Nkawkaw,Freelancer,Paid,43499,7652,18
+512,Male,Tarkwa,Unemployed,Paid,41338,71420,49
+513,Male,Obuasi,Employed,Partial,37908,4049,54
+514,Male,Cape Coast,Employed,Default,22154,78745,32
+515,Male,Nkawkaw,Big Business Owner,Default,11865,86858,21
+516,Male,Takoradi,Small Business Owner,Default,4819,289,42
+517,Male,Cape Coast,Employed,Paid,14898,40040,30
+518,Male,Takoradi,Freelancer,Partial,26544,85620,59
+519,Male,Koforidua,Big Business Owner,Paid,48369,81563,54
+520,Female,Cape Coast,Unemployed,Partial,14408,34665,35
+521,Male,Cape Coast,Freelancer,Paid,34156,17243,18
+522,Male,Obuasi,Freelancer,Partial,25338,14609,21
+523,Male,Tarkwa,Small Business Owner,Default,11232,79096,27
+524,Male,Tarkwa,Small Business Owner,Default,14716,84233,54
+525,Female,Mankesim,Small Business Owner,Default,18565,71980,56
+526,Female,Mankesim,Big Business Owner,Paid,23175,95178,37
+527,Female,Techiman,Unemployed,Default,19033,95363,36
+528,Male,Tema,Unemployed,Default,30102,40409,20
+529,Female,Sunyani,Employed,Partial,2176,37379,21
+530,Female,Bolgatanga,Freelancer,Default,19984,23034,18
+531,Male,Tema,Big Business Owner,Default,14938,56074,52
+532,Male,Koforidua,Big Business Owner,Paid,4000,15422,29
+533,Female,Tema,Unemployed,Partial,37250,33816,40
+534,Male,Koforidua,Big Business Owner,Default,5031,81211,50
+535,Female,Cape Coast,Freelancer,Paid,40736,34053,59
+536,Male,Takoradi,Employed,Partial,45927,8331,26
+537,Female,Nkawkaw,Unemployed,Partial,47977,5566,49
+538,Male,Bolgatanga,Freelancer,Default,27219,4998,48
+539,Male,Mankesim,Freelancer,Default,700,81877,57
+540,Female,Kumasi,Unemployed,Default,6315,67641,39
+541,Male,Sunyani,Unemployed,Paid,40094,58479,45
+542,Male,Takoradi,Small Business Owner,Partial,6517,52273,46
+543,Male,Bolgatanga,Employed,Partial,20505,82320,28
+544,Male,Tarkwa,Employed,Partial,25876,23416,44
+545,Female,Aburi,Small Business Owner,Default,38014,73412,30
+546,Male,Koforidua,Employed,Partial,23839,40610,22
+547,Male,Mankesim,Unemployed,Paid,18580,5722,23
+548,Female,Nkawkaw,Unemployed,Paid,11507,59029,30
+549,Male,Kumasi,Unemployed,Paid,3169,69303,19
+550,Female,Cape Coast,Small Business Owner,Partial,20840,47094,55
+551,Female,Tarkwa,Employed,Paid,43984,95042,46
+552,Male,Tamale,Big Business Owner,Paid,9110,3371,49
+553,Male,Cape Coast,Big Business Owner,Default,43474,72713,39
+554,Male,Mankesim,Big Business Owner,Partial,6583,51698,58
+555,Female,Bolgatanga,Small Business Owner,Default,29631,61162,55
+556,Male,Nkawkaw,Small Business Owner,Partial,18940,53157,30
+557,Male,Bolgatanga,Small Business Owner,Default,6325,49172,41
+558,Female,Aburi,Unemployed,Default,8809,81613,43
+559,Female,Accra,Freelancer,Paid,23675,11779,29
+560,Female,Sunyani,Freelancer,Partial,11005,12857,21
+561,Male,Cape Coast,Employed,Default,716,50407,26
+562,Male,Kumasi,Unemployed,Partial,281,1569,44
+563,Female,Obuasi,Employed,Partial,38053,55042,35
+564,Male,Tamale,Employed,Paid,45474,24109,43
+565,Female,Accra,Unemployed,Partial,28062,72026,40
+566,Female,Mankesim,Employed,Partial,37925,66895,56
+567,Female,Obuasi,Unemployed,Default,10689,5858,33
+568,Male,Takoradi,Unemployed,Paid,11529,35560,51
+569,Male,Hohoe,Employed,Partial,46111,28132,55
+570,Female,Tema,Big Business Owner,Partial,20217,23814,34
+571,Female,Aburi,Unemployed,Paid,29680,73672,35
+572,Male,Ho,Small Business Owner,Paid,10435,40198,42
+573,Female,Tema,Unemployed,Paid,37582,75592,35
+574,Male,Tema,Unemployed,Default,13976,98219,24
+575,Female,Nkawkaw,Employed,Partial,1340,20236,57
+576,Female,Tamale,Big Business Owner,Partial,2449,80004,30
+577,Female,Wa,Big Business Owner,Paid,46739,25649,46
+578,Male,Accra,Employed,Default,915,7662,50
+579,Female,Tamale,Employed,Default,26418,88395,43
+580,Male,Nkawkaw,Employed,Paid,29736,69037,46
+581,Male,Bolgatanga,Freelancer,Partial,40799,73397,24
+582,Female,Cape Coast,Unemployed,Partial,3944,86844,57
+583,Male,Aburi,Unemployed,Partial,26315,6731,20
+584,Female,Techiman,Small Business Owner,Default,18791,6652,55
+585,Male,Kumasi,Employed,Partial,24672,520,18
+586,Male,Techiman,Employed,Partial,8295,48271,30
+587,Male,Takoradi,Employed,Paid,14237,6336,50
+588,Male,Bolgatanga,Freelancer,Default,15329,64498,19
+589,Male,Hohoe,Small Business Owner,Default,9191,23031,50
+590,Female,Bolgatanga,Freelancer,Paid,21884,27517,35
+591,Female,Hohoe,Freelancer,Partial,46114,51059,28
+592,Male,Nkawkaw,Small Business Owner,Default,14749,66463,46
+593,Female,Aburi,Small Business Owner,Default,36822,73232,40
+594,Female,Sunyani,Big Business Owner,Default,36640,67320,23
+595,Female,Techiman,Small Business Owner,Default,26507,16168,44
+596,Male,Obuasi,Unemployed,Default,32400,49363,20
+597,Male,Tarkwa,Employed,Partial,24140,51815,35
+598,Female,Cape Coast,Employed,Default,30838,13975,19
+599,Female,Mankesim,Big Business Owner,Partial,27122,5983,44
+600,Male,Tamale,Small Business Owner,Paid,28864,93698,27
+601,Female,Tamale,Big Business Owner,Default,41854,81838,51
+602,Female,Aburi,Big Business Owner,Paid,19937,66289,56
+603,Male,Ho,Freelancer,Paid,1136,70730,27
+604,Male,Hohoe,Unemployed,Partial,46797,64347,24
+605,Female,Hohoe,Big Business Owner,Partial,10660,22654,51
+606,Female,Cape Coast,Big Business Owner,Default,49811,51746,30
+607,Female,Obuasi,Small Business Owner,Partial,10347,49533,57
+608,Female,Sunyani,Unemployed,Paid,5291,4828,25
+609,Female,Koforidua,Employed,Paid,28742,94747,53
+610,Male,Sunyani,Unemployed,Paid,27892,7815,48
+611,Male,Wa,Employed,Paid,4122,5719,45
+612,Female,Bolgatanga,Big Business Owner,Paid,6794,76192,54
+613,Male,Takoradi,Freelancer,Partial,18042,78562,56
+614,Female,Cape Coast,Freelancer,Paid,13879,99174,45
+615,Male,Sunyani,Freelancer,Partial,1722,6096,49
+616,Male,Nkawkaw,Unemployed,Default,5095,97872,47
+617,Male,Mankesim,Unemployed,Partial,16429,89463,47
+618,Female,Tema,Freelancer,Paid,18116,29726,24
+619,Male,Accra,Employed,Default,8648,12642,57
+620,Male,Ho,Small Business Owner,Default,4130,61120,50
+621,Male,Cape Coast,Unemployed,Paid,47988,97422,20
+622,Female,Tema,Small Business Owner,Default,46547,90232,32
+623,Female,Techiman,Employed,Default,42029,25682,59
+624,Female,Takoradi,Small Business Owner,Default,35379,77057,21
+625,Male,Ho,Big Business Owner,Partial,1285,85577,18
+626,Male,Accra,Big Business Owner,Default,13281,38263,59
+627,Female,Kumasi,Employed,Default,949,73282,45
+628,Male,Accra,Employed,Partial,38639,86310,56
+629,Male,Tarkwa,Small Business Owner,Paid,28577,19215,23
+630,Male,Tema,Big Business Owner,Partial,19745,90440,26
+631,Female,Hohoe,Small Business Owner,Partial,9192,69631,37
+632,Female,Kumasi,Big Business Owner,Paid,25475,52586,42
+633,Female,Techiman,Employed,Default,1643,13712,55
+634,Female,Accra,Small Business Owner,Default,29656,6712,19
+635,Male,Ho,Small Business Owner,Paid,48862,66763,49
+636,Male,Wa,Employed,Partial,9117,42707,32
+637,Female,Tamale,Employed,Paid,5910,61961,30
+638,Male,Cape Coast,Small Business Owner,Paid,11026,97976,46
+639,Female,Cape Coast,Big Business Owner,Paid,31242,15843,19
+640,Female,Koforidua,Unemployed,Partial,47218,90474,42
+641,Male,Takoradi,Big Business Owner,Default,49052,87340,20
+642,Female,Sunyani,Unemployed,Default,5445,69553,33
+643,Female,Tamale,Freelancer,Paid,2314,86820,55
+644,Male,Hohoe,Employed,Partial,13319,5536,53
+645,Female,Takoradi,Big Business Owner,Partial,7780,68587,20
+646,Female,Bolgatanga,Unemployed,Paid,33222,25315,52
+647,Male,Takoradi,Employed,Default,21024,94855,46
+648,Female,Nkawkaw,Unemployed,Default,38285,40318,49
+649,Male,Kumasi,Small Business Owner,Partial,31712,88365,30
+650,Female,Tarkwa,Big Business Owner,Default,7232,73082,48
+651,Female,Aburi,Freelancer,Default,5345,18935,43
+652,Male,Sunyani,Big Business Owner,Default,14671,83240,55
+653,Female,Koforidua,Freelancer,Paid,20115,663,31
+654,Female,Sunyani,Employed,Paid,34780,12329,57
+655,Male,Tema,Employed,Default,43788,97490,25
+656,Male,Wa,Freelancer,Partial,17366,87854,27
+657,Male,Sunyani,Freelancer,Partial,44931,16133,43
+658,Male,Tamale,Unemployed,Partial,1968,95561,51
+659,Female,Techiman,Freelancer,Paid,47067,78848,25
+660,Male,Bolgatanga,Freelancer,Paid,32184,93122,45
+661,Female,Nkawkaw,Small Business Owner,Default,13670,63273,56
+662,Male,Wa,Employed,Partial,12279,53162,39
+663,Female,Koforidua,Small Business Owner,Partial,29481,16504,27
+664,Female,Ho,Freelancer,Default,47124,20561,28
+665,Male,Accra,Freelancer,Default,12714,25627,38
+666,Female,Kumasi,Big Business Owner,Paid,34650,85886,37
+667,Male,Cape Coast,Employed,Default,18270,57784,36
+668,Female,Tamale,Unemployed,Default,21483,85152,33
+669,Female,Nkawkaw,Unemployed,Paid,3640,61514,18
+670,Male,Wa,Small Business Owner,Default,47518,88021,38
+671,Female,Sunyani,Unemployed,Default,12591,25581,21
+672,Female,Obuasi,Big Business Owner,Paid,1101,7473,53
+673,Male,Aburi,Employed,Default,27488,51545,57
+674,Female,Kumasi,Big Business Owner,Partial,46311,45666,54
+675,Male,Tamale,Small Business Owner,Partial,41040,37370,28
+676,Female,Techiman,Freelancer,Paid,26267,28009,38
+677,Female,Wa,Freelancer,Paid,2426,53254,46
+678,Female,Sunyani,Small Business Owner,Partial,41952,29726,26
+679,Male,Sunyani,Employed,Default,39930,13700,33
+680,Female,Wa,Employed,Partial,20457,49187,27
+681,Male,Aburi,Employed,Default,44224,92934,49
+682,Female,Takoradi,Unemployed,Paid,29645,40427,39
+683,Male,Koforidua,Employed,Default,10524,71863,23
+684,Female,Bolgatanga,Freelancer,Default,33868,94853,50
+685,Male,Techiman,Unemployed,Default,47358,41844,49
+686,Male,Ho,Employed,Partial,20481,66986,20
+687,Female,Aburi,Unemployed,Partial,11630,12772,52
+688,Female,Obuasi,Unemployed,Paid,40954,31067,41
+689,Male,Ho,Employed,Partial,23545,39124,40
+690,Female,Takoradi,Freelancer,Default,34354,77655,53
+691,Male,Techiman,Unemployed,Default,16488,74932,53
+692,Male,Tarkwa,Freelancer,Paid,18457,15365,53
+693,Male,Mankesim,Big Business Owner,Default,5253,51324,54
+694,Female,Takoradi,Unemployed,Default,9865,92883,57
+695,Male,Sunyani,Employed,Paid,38829,32734,36
+696,Male,Hohoe,Unemployed,Default,44993,84828,32
+697,Male,Koforidua,Big Business Owner,Partial,28714,85785,26
+698,Male,Aburi,Big Business Owner,Default,16605,72757,30
+699,Male,Cape Coast,Freelancer,Default,22874,59833,49
+700,Female,Aburi,Employed,Paid,26994,33276,57
+701,Male,Techiman,Big Business Owner,Paid,38140,74718,43
+702,Female,Kumasi,Freelancer,Default,24710,48612,47
+703,Male,Tarkwa,Small Business Owner,Default,38929,25563,20
+704,Male,Techiman,Small Business Owner,Partial,20258,80603,44
+705,Male,Accra,Small Business Owner,Paid,12633,36400,53
+706,Female,Aburi,Big Business Owner,Default,3080,86125,21
+707,Female,Mankesim,Employed,Partial,23366,51097,26
+708,Female,Cape Coast,Unemployed,Default,47514,83452,43
+709,Female,Accra,Big Business Owner,Default,26167,43423,21
+710,Female,Bolgatanga,Employed,Default,33252,75891,37
+711,Female,Cape Coast,Freelancer,Default,28113,51745,49
+712,Female,Hohoe,Unemployed,Default,28836,2569,60
+713,Male,Cape Coast,Unemployed,Paid,49223,19754,58
+714,Male,Takoradi,Freelancer,Paid,14035,84876,50
+715,Female,Cape Coast,Employed,Partial,29746,83803,22
+716,Male,Nkawkaw,Unemployed,Paid,12439,37959,52
+717,Female,Nkawkaw,Small Business Owner,Paid,31991,45278,18
+718,Female,Wa,Small Business Owner,Paid,25959,35680,42
+719,Female,Nkawkaw,Employed,Paid,31035,72534,48
+720,Male,Accra,Small Business Owner,Partial,22039,59972,45
+721,Male,Obuasi,Big Business Owner,Paid,49627,75068,29
+722,Male,Accra,Small Business Owner,Paid,29440,25805,33
+723,Female,Accra,Small Business Owner,Paid,41101,99592,44
+724,Male,Tamale,Big Business Owner,Paid,5134,46105,38
+725,Male,Kumasi,Big Business Owner,Partial,38245,35814,36
+726,Female,Obuasi,Small Business Owner,Paid,42821,68146,42
+727,Male,Bolgatanga,Unemployed,Paid,46863,69359,36
+728,Male,Wa,Small Business Owner,Paid,31666,20257,39
+729,Female,Hohoe,Employed,Paid,20963,7483,48
+730,Female,Bolgatanga,Big Business Owner,Paid,8402,90360,20
+731,Female,Kumasi,Employed,Default,33851,56226,42
+732,Female,Bolgatanga,Big Business Owner,Partial,17219,83361,60
+733,Female,Obuasi,Unemployed,Default,8457,50398,26
+734,Female,Kumasi,Small Business Owner,Paid,20640,10485,46
+735,Female,Mankesim,Unemployed,Paid,37914,72620,21
+736,Female,Nkawkaw,Big Business Owner,Partial,14403,60906,20
+737,Female,Obuasi,Small Business Owner,Default,36181,89966,18
+738,Female,Kumasi,Unemployed,Partial,6534,76573,59
+739,Female,Tema,Big Business Owner,Partial,12996,30715,55
+740,Male,Bolgatanga,Big Business Owner,Paid,10451,91690,25
+741,Female,Techiman,Employed,Paid,29943,78631,41
+742,Male,Mankesim,Freelancer,Paid,26491,97832,44
+743,Male,Koforidua,Employed,Default,22967,46879,18
+744,Male,Mankesim,Employed,Partial,3517,79462,27
+745,Female,Kumasi,Small Business Owner,Default,5292,78980,50
+746,Female,Sunyani,Employed,Partial,30131,47309,35
+747,Male,Bolgatanga,Unemployed,Default,10551,55310,38
+748,Female,Tarkwa,Big Business Owner,Partial,41178,80266,56
+749,Male,Tarkwa,Freelancer,Paid,18261,32130,22
+750,Male,Wa,Unemployed,Default,6737,73866,20
+751,Female,Ho,Big Business Owner,Partial,1125,82077,39
+752,Male,Accra,Freelancer,Paid,2534,47992,53
+753,Female,Wa,Unemployed,Paid,40308,97430,37
+754,Male,Hohoe,Employed,Partial,48933,75024,36
+755,Female,Ho,Freelancer,Partial,43524,74210,46
+756,Male,Sunyani,Freelancer,Default,27311,75185,29
+757,Female,Sunyani,Big Business Owner,Paid,41058,89497,22
+758,Male,Accra,Employed,Paid,22055,99368,38
+759,Male,Tema,Freelancer,Default,18245,35563,48
+760,Female,Takoradi,Unemployed,Default,8776,22006,34
+761,Male,Nkawkaw,Big Business Owner,Paid,38892,44057,36
+762,Female,Koforidua,Unemployed,Default,30673,42754,45
+763,Male,Wa,Unemployed,Paid,6226,566,52
+764,Male,Nkawkaw,Big Business Owner,Paid,49111,55176,31
+765,Female,Aburi,Freelancer,Default,43757,27011,27
+766,Female,Kumasi,Unemployed,Partial,27277,71614,55
+767,Female,Sunyani,Unemployed,Default,45366,97837,51
+768,Male,Accra,Small Business Owner,Default,38713,50534,31
+769,Male,Techiman,Freelancer,Paid,35293,79014,39
+770,Male,Hohoe,Small Business Owner,Paid,45398,86681,18
+771,Male,Tema,Employed,Paid,39769,24689,56
+772,Female,Aburi,Freelancer,Default,16061,9174,28
+773,Male,Bolgatanga,Freelancer,Partial,22586,1955,22
+774,Female,Wa,Unemployed,Paid,4645,18148,52
+775,Male,Takoradi,Employed,Paid,43707,87755,49
+776,Female,Tamale,Unemployed,Default,3564,86470,34
+777,Male,Tarkwa,Big Business Owner,Partial,36875,16810,41
+778,Male,Koforidua,Employed,Default,47271,38875,53
+779,Male,Tarkwa,Freelancer,Default,7478,43087,29
+780,Female,Tamale,Small Business Owner,Default,28793,60420,50
+781,Male,Tema,Employed,Partial,28427,96558,39
+782,Male,Ho,Employed,Default,15661,64770,21
+783,Female,Techiman,Employed,Paid,45001,52646,33
+784,Male,Takoradi,Employed,Partial,37446,84598,49
+785,Male,Techiman,Unemployed,Partial,16810,57824,53
+786,Male,Tema,Employed,Default,42454,10807,41
+787,Male,Kumasi,Small Business Owner,Default,14710,78089,55
+788,Female,Mankesim,Unemployed,Paid,11090,55158,21
+789,Female,Accra,Employed,Default,12410,75504,38
+790,Female,Tamale,Small Business Owner,Partial,48206,17878,59
+791,Female,Ho,Small Business Owner,Paid,35421,54117,56
+792,Female,Cape Coast,Big Business Owner,Default,2534,18723,29
+793,Female,Tamale,Unemployed,Partial,41841,77442,59
+794,Male,Koforidua,Freelancer,Partial,39718,49987,24
+795,Female,Sunyani,Big Business Owner,Partial,11045,45612,55
+796,Female,Aburi,Unemployed,Default,20254,77647,45
+797,Female,Aburi,Big Business Owner,Default,31004,19020,33
+798,Male,Tamale,Unemployed,Partial,31259,10263,28
+799,Female,Tarkwa,Employed,Paid,18474,82496,44
+800,Female,Hohoe,Big Business Owner,Partial,1450,66600,24
+801,Female,Nkawkaw,Unemployed,Default,18366,93371,36
+802,Male,Cape Coast,Small Business Owner,Default,24189,30901,28
+803,Male,Cape Coast,Small Business Owner,Default,15117,25285,49
+804,Male,Hohoe,Unemployed,Partial,31417,88241,34
+805,Female,Sunyani,Small Business Owner,Partial,38979,86388,37
+806,Female,Aburi,Freelancer,Default,40040,97594,48
+807,Male,Hohoe,Freelancer,Paid,26639,84320,22
+808,Male,Kumasi,Employed,Default,32201,87647,33
+809,Male,Mankesim,Freelancer,Default,29402,73490,29
+810,Male,Tema,Big Business Owner,Partial,32498,42724,25
+811,Male,Ho,Unemployed,Partial,29970,41580,45
+812,Male,Aburi,Freelancer,Default,14647,78512,27
+813,Female,Koforidua,Employed,Default,26413,15581,19
+814,Female,Koforidua,Employed,Default,9313,62408,28
+815,Male,Kumasi,Unemployed,Paid,31480,52191,53
+816,Male,Wa,Big Business Owner,Default,6884,59201,41
+817,Female,Takoradi,Big Business Owner,Paid,2832,66226,33
+818,Male,Takoradi,Unemployed,Default,1107,11845,45
+819,Male,Bolgatanga,Unemployed,Partial,38081,66110,25
+820,Female,Techiman,Freelancer,Default,21523,40225,42
+821,Male,Bolgatanga,Unemployed,Default,8765,76591,43
+822,Female,Mankesim,Unemployed,Paid,1930,67774,57
+823,Female,Koforidua,Big Business Owner,Partial,30069,7209,38
+824,Male,Takoradi,Big Business Owner,Paid,46861,19942,26
+825,Male,Cape Coast,Small Business Owner,Partial,44746,20914,24
+826,Male,Tema,Big Business Owner,Default,19088,47361,58
+827,Female,Accra,Freelancer,Default,34795,42746,56
+828,Female,Bolgatanga,Small Business Owner,Paid,39183,66221,50
+829,Male,Aburi,Employed,Partial,19761,93417,34
+830,Female,Hohoe,Unemployed,Default,10823,23262,47
+831,Female,Kumasi,Big Business Owner,Partial,29474,20367,25
+832,Male,Obuasi,Freelancer,Partial,25073,61052,27
+833,Male,Takoradi,Employed,Partial,33708,78319,31
+834,Male,Accra,Small Business Owner,Default,5866,11158,21
+835,Male,Tarkwa,Employed,Paid,45488,59193,45
+836,Male,Tarkwa,Employed,Default,46172,39299,22
+837,Female,Wa,Employed,Partial,6591,59253,28
+838,Female,Tarkwa,Unemployed,Default,25061,93292,56
+839,Male,Obuasi,Unemployed,Default,32186,27827,20
+840,Female,Aburi,Unemployed,Partial,19991,79488,33
+841,Female,Aburi,Small Business Owner,Partial,40495,39216,59
+842,Female,Techiman,Unemployed,Default,21574,91696,58
+843,Male,Sunyani,Big Business Owner,Paid,35358,35577,22
+844,Female,Accra,Unemployed,Partial,14404,74043,49
+845,Female,Tema,Employed,Partial,45903,84720,49
+846,Male,Tema,Big Business Owner,Partial,16601,39833,33
+847,Female,Hohoe,Big Business Owner,Default,34257,40884,19
+848,Female,Koforidua,Small Business Owner,Default,30487,6769,44
+849,Female,Nkawkaw,Big Business Owner,Paid,30413,56265,45
+850,Female,Cape Coast,Employed,Default,8231,25402,33
+851,Female,Techiman,Employed,Default,45121,87296,43
+852,Male,Takoradi,Unemployed,Partial,11993,70261,22
+853,Female,Wa,Big Business Owner,Partial,49870,74659,50
+854,Female,Tarkwa,Employed,Default,18387,49385,39
+855,Female,Aburi,Small Business Owner,Paid,25472,65238,37
+856,Female,Koforidua,Freelancer,Partial,37306,4755,30
+857,Female,Wa,Freelancer,Paid,26015,62213,58
+858,Male,Ho,Freelancer,Default,45694,57820,28
+859,Male,Ho,Unemployed,Paid,25653,5397,47
+860,Female,Koforidua,Small Business Owner,Default,10732,14026,51
+861,Female,Techiman,Big Business Owner,Paid,9110,43450,53
+862,Female,Techiman,Big Business Owner,Partial,25423,37811,20
+863,Female,Takoradi,Employed,Default,31077,54172,44
+864,Male,Tamale,Freelancer,Paid,14823,63700,25
+865,Male,Accra,Unemployed,Default,18267,79723,34
+866,Male,Wa,Employed,Partial,38856,70783,37
+867,Female,Accra,Small Business Owner,Paid,14901,78064,33
+868,Female,Bolgatanga,Employed,Default,39817,13901,59
+869,Female,Koforidua,Small Business Owner,Partial,20940,25438,22
+870,Female,Mankesim,Big Business Owner,Default,27957,31082,46
+871,Male,Ho,Employed,Default,26574,85168,54
+872,Male,Koforidua,Unemployed,Partial,12800,96388,35
+873,Female,Hohoe,Employed,Partial,38392,48164,53
+874,Male,Sunyani,Unemployed,Default,13685,83084,30
+875,Male,Cape Coast,Freelancer,Partial,33218,20300,46
+876,Female,Tarkwa,Small Business Owner,Partial,29312,7763,50
+877,Male,Wa,Freelancer,Default,9817,72075,51
+878,Male,Bolgatanga,Employed,Partial,30166,69747,25
+879,Male,Wa,Small Business Owner,Default,39712,24346,51
+880,Male,Mankesim,Small Business Owner,Default,10066,53719,28
+881,Female,Accra,Employed,Paid,7565,10199,35
+882,Female,Accra,Unemployed,Paid,14085,29880,57
+883,Female,Aburi,Freelancer,Default,22737,41372,51
+884,Male,Accra,Employed,Paid,24738,84703,47
+885,Male,Techiman,Big Business Owner,Default,49319,7260,38
+886,Female,Takoradi,Big Business Owner,Paid,43448,33135,46
+887,Female,Sunyani,Small Business Owner,Default,7757,58183,34
+888,Male,Kumasi,Freelancer,Default,28852,18063,19
+889,Male,Kumasi,Big Business Owner,Partial,39262,45617,21
+890,Male,Bolgatanga,Unemployed,Paid,1584,47965,22
+891,Male,Techiman,Employed,Default,48227,31153,36
+892,Female,Ho,Unemployed,Partial,21818,82482,21
+893,Female,Tamale,Small Business Owner,Partial,32469,61377,23
+894,Male,Tarkwa,Big Business Owner,Partial,46615,76660,42
+895,Male,Koforidua,Freelancer,Partial,21198,86556,41
+896,Female,Techiman,Employed,Default,41907,71602,55
+897,Male,Techiman,Unemployed,Default,10631,62678,39
+898,Male,Bolgatanga,Freelancer,Paid,5888,38790,52
+899,Female,Koforidua,Small Business Owner,Paid,20384,51886,18
+900,Female,Bolgatanga,Freelancer,Paid,34316,67041,39
+901,Male,Hohoe,Freelancer,Paid,10304,51804,20
+902,Female,Hohoe,Small Business Owner,Partial,32452,55193,50
+903,Female,Bolgatanga,Freelancer,Paid,45302,69132,19
+904,Male,Sunyani,Big Business Owner,Paid,41045,11171,18
+905,Male,Tamale,Big Business Owner,Paid,45144,99547,35
+906,Male,Accra,Small Business Owner,Default,44575,9307,43
+907,Female,Mankesim,Big Business Owner,Default,1963,75803,49
+908,Male,Techiman,Small Business Owner,Paid,6265,9848,28
+909,Male,Mankesim,Employed,Partial,4525,94028,41
+910,Male,Cape Coast,Unemployed,Default,41669,60568,25
+911,Male,Mankesim,Unemployed,Paid,49860,77912,44
+912,Female,Aburi,Freelancer,Partial,3447,52090,39
+913,Female,Kumasi,Small Business Owner,Default,10640,14807,39
+914,Male,Takoradi,Small Business Owner,Paid,45284,94989,39
+915,Female,Koforidua,Employed,Default,41013,22948,23
+916,Female,Sunyani,Employed,Paid,7361,66089,57
+917,Male,Ho,Small Business Owner,Default,43515,98083,48
+918,Male,Koforidua,Small Business Owner,Default,6170,62123,34
+919,Female,Ho,Big Business Owner,Default,43551,54039,28
+920,Female,Ho,Unemployed,Paid,40085,26934,41
+921,Female,Tema,Employed,Partial,30690,71632,37
+922,Male,Tarkwa,Big Business Owner,Paid,27425,36813,20
+923,Male,Aburi,Freelancer,Partial,13269,61043,18
+924,Female,Tema,Employed,Paid,42108,74102,26
+925,Male,Tarkwa,Freelancer,Partial,478,66942,30
+926,Male,Techiman,Employed,Partial,21408,56399,24
+927,Female,Sunyani,Small Business Owner,Partial,47239,13203,31
+928,Male,Techiman,Freelancer,Paid,11859,34134,48
+929,Female,Nkawkaw,Small Business Owner,Default,22906,84691,42
+930,Male,Accra,Big Business Owner,Partial,49180,82616,29
+931,Female,Tarkwa,Freelancer,Partial,31532,29203,33
+932,Male,Koforidua,Freelancer,Paid,16357,93778,44
+933,Male,Tema,Freelancer,Partial,44113,86992,18
+934,Female,Kumasi,Small Business Owner,Default,34105,35328,34
+935,Male,Nkawkaw,Small Business Owner,Paid,42716,58208,33
+936,Female,Koforidua,Employed,Default,26477,14512,34
+937,Male,Aburi,Freelancer,Default,4801,83899,56
+938,Male,Wa,Employed,Paid,49389,97236,49
+939,Female,Nkawkaw,Employed,Default,9240,68040,35
+940,Female,Mankesim,Employed,Partial,25527,75122,58
+941,Male,Aburi,Employed,Partial,35313,73055,45
+942,Female,Takoradi,Small Business Owner,Default,8361,57087,27
+943,Female,Takoradi,Small Business Owner,Default,4462,18231,39
+944,Female,Bolgatanga,Big Business Owner,Partial,1163,54820,51
+945,Female,Nkawkaw,Freelancer,Default,44467,49394,26
+946,Male,Tarkwa,Small Business Owner,Default,48233,64596,41
+947,Female,Techiman,Big Business Owner,Paid,19977,4719,20
+948,Female,Tema,Freelancer,Paid,26710,37822,46
+949,Female,Hohoe,Unemployed,Partial,40929,93109,54
+950,Male,Tarkwa,Freelancer,Default,1756,46517,23
+951,Female,Koforidua,Small Business Owner,Partial,13399,79967,42
+952,Female,Takoradi,Unemployed,Paid,14786,83113,57
+953,Female,Nkawkaw,Big Business Owner,Partial,7695,33546,26
+954,Female,Hohoe,Freelancer,Default,27435,94837,55
+955,Female,Ho,Big Business Owner,Paid,3781,57068,22
+956,Male,Accra,Big Business Owner,Partial,24179,92025,29
+957,Male,Bolgatanga,Small Business Owner,Paid,6569,61844,40
+958,Male,Takoradi,Employed,Default,7404,14103,39
+959,Female,Kumasi,Employed,Paid,22963,40691,35
+960,Male,Cape Coast,Big Business Owner,Default,12830,79051,43
+961,Female,Cape Coast,Small Business Owner,Default,48363,54160,33
+962,Male,Koforidua,Unemployed,Partial,8914,85777,34
+963,Female,Nkawkaw,Small Business Owner,Paid,14080,14031,46
+964,Female,Obuasi,Employed,Default,11286,64937,22
+965,Female,Tarkwa,Employed,Partial,23365,78115,38
+966,Female,Sunyani,Unemployed,Partial,21001,9363,40
+967,Female,Sunyani,Freelancer,Default,48294,98847,35
+968,Male,Hohoe,Big Business Owner,Partial,23111,77380,57
+969,Male,Aburi,Unemployed,Default,29764,78380,55
+970,Male,Aburi,Employed,Partial,33948,78478,60
+971,Male,Bolgatanga,Big Business Owner,Default,37423,99703,55
+972,Female,Tarkwa,Employed,Partial,25188,4913,60
+973,Male,Tema,Unemployed,Partial,49685,36392,21
+974,Male,Cape Coast,Freelancer,Default,7734,58056,36
+975,Female,Tema,Small Business Owner,Default,15896,62796,24
+976,Male,Bolgatanga,Small Business Owner,Default,28525,94966,25
+977,Male,Sunyani,Small Business Owner,Partial,25853,15710,35
+978,Female,Ho,Employed,Paid,28914,6480,45
+979,Female,Bolgatanga,Small Business Owner,Default,41057,95359,32
+980,Male,Nkawkaw,Freelancer,Partial,20220,15496,39
+981,Female,Aburi,Employed,Paid,10131,50012,24
+982,Female,Accra,Unemployed,Partial,9033,63711,58
+983,Male,Accra,Unemployed,Paid,29080,40423,20
+984,Female,Mankesim,Employed,Partial,18694,1050,22
+985,Female,Tema,Employed,Partial,30618,68534,59
+986,Female,Wa,Small Business Owner,Paid,31688,559,60
+987,Female,Wa,Unemployed,Paid,1336,1691,32
+988,Male,Sunyani,Small Business Owner,Partial,25751,24496,28
+989,Female,Koforidua,Employed,Paid,30620,20730,37
+990,Male,Hohoe,Employed,Partial,8225,66539,52
+991,Female,Mankesim,Small Business Owner,Default,31439,3265,27
+992,Female,Kumasi,Unemployed,Default,30671,48808,59
+993,Male,Ho,Small Business Owner,Paid,26684,28959,46
+994,Male,Techiman,Big Business Owner,Partial,48988,24794,36
+995,Female,Aburi,Employed,Default,1726,1051,44
+996,Female,Aburi,Big Business Owner,Default,34727,3289,23
+997,Male,Cape Coast,Employed,Partial,33092,30284,24
+998,Female,Ho,Big Business Owner,Default,39822,12825,43
+999,Male,Aburi,Small Business Owner,Partial,5709,52723,37
+1000,Male,Accra,Small Business Owner,Paid,36298,99619,43
